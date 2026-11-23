@@ -57,13 +57,13 @@ console.log(data.collections.nature);
 ### 🍏 macOS (9)
 - **El Capitan** (`macos/el-capitan`) — 2 wallpapers
 - **High Sierra** (`macos/high-sierra`) — 2 wallpapers
-- **Lion** (`macos/Lion`) — 19 wallpapers
-- **Mavericks** (`macos/Mavericks`) — 9 wallpapers
-- **Mojave** (`macos/Mojave`) — 30 wallpapers
-- **Monterey** (`macos/Monterey`) — 1 wallpapers
+- **Lion** (`macos/lion`) — 19 wallpapers
+- **Mavericks** (`macos/mavericks`) — 9 wallpapers
+- **Mojave** (`macos/mojave`) — 30 wallpapers
+- **Monterey** (`macos/monterey`) — 1 wallpapers
 - **Mountain Lion** (`macos/mountain-lion`) — 17 wallpapers
-- **Sierra** (`macos/Sierra`) — 6 wallpapers
-- **Yosemite** (`macos/Yosemite`) — 5 wallpapers
+- **Sierra** (`macos/sierra`) — 6 wallpapers
+- **Yosemite** (`macos/yosemite`) — 5 wallpapers
 
 ### 🌲 Nature & Thematic (12)
 - **City Architecture** (`nature/city-architecture`) — 45 wallpapers

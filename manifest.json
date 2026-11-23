@@ -7433,14 +7433,14 @@
           "wallpapers": [
             {
               "filename": "el-capitan-2.jpg",
-              "title": "El Capitan 2",
+              "title": "el-capitan-2",
               "path": "macos/el-capitan/el-capitan-2.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/el-capitan/el-capitan-2.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/el-capitan/el-capitan-2.jpg"
             },
             {
               "filename": "el-capitan.jpg",
-              "title": "El Capitan",
+              "title": "el-capitan",
               "path": "macos/el-capitan/el-capitan.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/el-capitan/el-capitan.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/el-capitan/el-capitan.jpg"
@@ -7454,14 +7454,14 @@
           "wallpapers": [
             {
               "filename": "high-sierra.jpg",
-              "title": "High Sierra",
+              "title": "high-sierra",
               "path": "macos/high-sierra/high-sierra.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/high-sierra/high-sierra.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/high-sierra/high-sierra.jpg"
             },
             {
               "filename": "ink-cloud.jpg",
-              "title": "Ink Cloud",
+              "title": "ink-cloud",
               "path": "macos/high-sierra/ink-cloud.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/high-sierra/ink-cloud.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/high-sierra/ink-cloud.jpg"
@@ -7469,443 +7469,443 @@
           ]
         },
         {
-          "id": "Lion",
+          "id": "lion",
           "title": "Lion",
           "count": 19,
           "wallpapers": [
             {
               "filename": "andromeda-galaxy.png",
-              "title": "Andromeda Galaxy",
-              "path": "macos/Lion/andromeda-galaxy.png",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/andromeda-galaxy.png",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/andromeda-galaxy.png"
+              "title": "andromeda-galaxy",
+              "path": "macos/lion/andromeda-galaxy.png",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/andromeda-galaxy.png",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/andromeda-galaxy.png"
             },
             {
-              "filename": "Beach.jpg",
-              "title": "Beach",
-              "path": "macos/Lion/Beach.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Beach.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Beach.jpg"
+              "filename": "beach.jpg",
+              "title": "beach",
+              "path": "macos/lion/beach.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/beach.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/beach.jpg"
             },
             {
               "filename": "bristle-grass.jpg",
-              "title": "Bristle Grass",
-              "path": "macos/Lion/bristle-grass.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/bristle-grass.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/bristle-grass.jpg"
+              "title": "bristle-grass",
+              "path": "macos/lion/bristle-grass.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/bristle-grass.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/bristle-grass.jpg"
             },
             {
               "filename": "ducks-on-a-misty-pond.jpg",
-              "title": "Ducks on a Misty Pond",
-              "path": "macos/Lion/ducks-on-a-misty-pond.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/ducks-on-a-misty-pond.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/ducks-on-a-misty-pond.jpg"
+              "title": "ducks-on-a-misty-pond",
+              "path": "macos/lion/ducks-on-a-misty-pond.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/ducks-on-a-misty-pond.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/ducks-on-a-misty-pond.jpg"
             },
             {
               "filename": "eagle-waterfall.jpg",
-              "title": "Eagle & Waterfall",
-              "path": "macos/Lion/eagle-waterfall.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/eagle-waterfall.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/eagle-waterfall.jpg"
+              "title": "eagle-waterfall",
+              "path": "macos/lion/eagle-waterfall.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/eagle-waterfall.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/eagle-waterfall.jpg"
             },
             {
-              "filename": "Elephant.jpg",
-              "title": "Elephant",
-              "path": "macos/Lion/Elephant.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Elephant.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Elephant.jpg"
+              "filename": "elephant.jpg",
+              "title": "elephant",
+              "path": "macos/lion/elephant.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/elephant.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/elephant.jpg"
             },
             {
-              "filename": "Flamingos.jpg",
-              "title": "Flamingos",
-              "path": "macos/Lion/Flamingos.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Flamingos.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Flamingos.jpg"
+              "filename": "flamingos.jpg",
+              "title": "flamingos",
+              "path": "macos/lion/flamingos.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/flamingos.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/flamingos.jpg"
             },
             {
               "filename": "floating-leaves.jpg",
-              "title": "Floating Leaves",
-              "path": "macos/Lion/floating-leaves.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/floating-leaves.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/floating-leaves.jpg"
+              "title": "floating-leaves",
+              "path": "macos/lion/floating-leaves.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/floating-leaves.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/floating-leaves.jpg"
             },
             {
               "filename": "forest-in-mist.jpg",
-              "title": "Forest in Mist",
-              "path": "macos/Lion/forest-in-mist.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/forest-in-mist.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/forest-in-mist.jpg"
+              "title": "forest-in-mist",
+              "path": "macos/lion/forest-in-mist.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/forest-in-mist.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/forest-in-mist.jpg"
             },
             {
-              "filename": "Isles.jpg",
-              "title": "Isles",
-              "path": "macos/Lion/Isles.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Isles.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Isles.jpg"
+              "filename": "isles.jpg",
+              "title": "isles",
+              "path": "macos/lion/isles.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/isles.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/isles.jpg"
             },
             {
-              "filename": "Lake.jpg",
-              "title": "Lake",
-              "path": "macos/Lion/Lake.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Lake.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Lake.jpg"
+              "filename": "lake.jpg",
+              "title": "lake",
+              "path": "macos/lion/lake.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/lake.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/lake.jpg"
             },
             {
-              "filename": "Lion.jpg",
-              "title": "Lion",
-              "path": "macos/Lion/Lion.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Lion.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Lion.jpg"
+              "filename": "lion.jpg",
+              "title": "lion",
+              "path": "macos/lion/lion.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/lion.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/lion.jpg"
             },
             {
-              "filename": "Moon.jpg",
-              "title": "Moon",
-              "path": "macos/Lion/Moon.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Moon.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Moon.jpg"
+              "filename": "moon.jpg",
+              "title": "moon",
+              "path": "macos/lion/moon.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/moon.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/moon.jpg"
             },
             {
               "filename": "mt-fuji-beta.jpg",
-              "title": "Mt. Fuji Beta",
-              "path": "macos/Lion/mt-fuji-beta.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/mt-fuji-beta.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/mt-fuji-beta.jpg"
+              "title": "mt-fuji-beta",
+              "path": "macos/lion/mt-fuji-beta.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/mt-fuji-beta.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/mt-fuji-beta.jpg"
             },
             {
               "filename": "mt-fuji.jpg",
-              "title": "Mt. Fuji",
-              "path": "macos/Lion/mt-fuji.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/mt-fuji.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/mt-fuji.jpg"
+              "title": "mt-fuji",
+              "path": "macos/lion/mt-fuji.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/mt-fuji.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/mt-fuji.jpg"
             },
             {
               "filename": "pink-forest.jpg",
-              "title": "Pink Forest",
-              "path": "macos/Lion/pink-forest.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/pink-forest.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/pink-forest.jpg"
+              "title": "pink-forest",
+              "path": "macos/lion/pink-forest.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/pink-forest.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/pink-forest.jpg"
             },
             {
               "filename": "pink-lotus-flower.jpg",
-              "title": "Pink Lotus Flower",
-              "path": "macos/Lion/pink-lotus-flower.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/pink-lotus-flower.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/pink-lotus-flower.jpg"
+              "title": "pink-lotus-flower",
+              "path": "macos/lion/pink-lotus-flower.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/pink-lotus-flower.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/pink-lotus-flower.jpg"
             },
             {
-              "filename": "Poppies.jpg",
-              "title": "Poppies",
-              "path": "macos/Lion/Poppies.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/Poppies.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/Poppies.jpg"
+              "filename": "poppies.jpg",
+              "title": "poppies",
+              "path": "macos/lion/poppies.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/poppies.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/poppies.jpg"
             },
             {
               "filename": "red-bells.jpg",
-              "title": "Red Bells",
-              "path": "macos/Lion/red-bells.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Lion/red-bells.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Lion/red-bells.jpg"
+              "title": "red-bells",
+              "path": "macos/lion/red-bells.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/lion/red-bells.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/lion/red-bells.jpg"
             }
           ]
         },
         {
-          "id": "Mavericks",
+          "id": "mavericks",
           "title": "Mavericks",
           "count": 9,
           "wallpapers": [
             {
-              "filename": "Abstract.jpg",
-              "title": "Abstract",
-              "path": "macos/Mavericks/Abstract.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/Abstract.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/Abstract.jpg"
+              "filename": "abstract.jpg",
+              "title": "abstract",
+              "path": "macos/mavericks/abstract.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/abstract.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/abstract.jpg"
             },
             {
               "filename": "death-valley.jpg",
-              "title": "Death Valley",
-              "path": "macos/Mavericks/death-valley.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/death-valley.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/death-valley.jpg"
+              "title": "death-valley",
+              "path": "macos/mavericks/death-valley.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/death-valley.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/death-valley.jpg"
             },
             {
-              "filename": "Desert.jpg",
-              "title": "Desert",
-              "path": "macos/Mavericks/Desert.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/Desert.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/Desert.jpg"
+              "filename": "desert.jpg",
+              "title": "desert",
+              "path": "macos/mavericks/desert.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/desert.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/desert.jpg"
             },
             {
               "filename": "foggy-forest.jpg",
-              "title": "Foggy Forest",
-              "path": "macos/Mavericks/foggy-forest.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/foggy-forest.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/foggy-forest.jpg"
+              "title": "foggy-forest",
+              "path": "macos/mavericks/foggy-forest.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/foggy-forest.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/foggy-forest.jpg"
             },
             {
               "filename": "foxtail-barley.jpg",
-              "title": "Foxtail Barley",
-              "path": "macos/Mavericks/foxtail-barley.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/foxtail-barley.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/foxtail-barley.jpg"
+              "title": "foxtail-barley",
+              "path": "macos/mavericks/foxtail-barley.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/foxtail-barley.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/foxtail-barley.jpg"
             },
             {
               "filename": "mountain-range.jpg",
-              "title": "Mountain Range",
-              "path": "macos/Mavericks/mountain-range.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/mountain-range.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/mountain-range.jpg"
+              "title": "mountain-range",
+              "path": "macos/mavericks/mountain-range.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/mountain-range.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/mountain-range.jpg"
             },
             {
               "filename": "rolling-waves.jpg",
-              "title": "Rolling Waves",
-              "path": "macos/Mavericks/rolling-waves.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/rolling-waves.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/rolling-waves.jpg"
+              "title": "rolling-waves",
+              "path": "macos/mavericks/rolling-waves.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/rolling-waves.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/rolling-waves.jpg"
             },
             {
-              "filename": "Underwater.jpg",
-              "title": "Underwater",
-              "path": "macos/Mavericks/Underwater.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/Underwater.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/Underwater.jpg"
+              "filename": "underwater.jpg",
+              "title": "underwater",
+              "path": "macos/mavericks/underwater.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/underwater.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/underwater.jpg"
             },
             {
-              "filename": "Wave.jpg",
-              "title": "Wave",
-              "path": "macos/Mavericks/Wave.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mavericks/Wave.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mavericks/Wave.jpg"
+              "filename": "wave.jpg",
+              "title": "wave",
+              "path": "macos/mavericks/wave.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mavericks/wave.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mavericks/wave.jpg"
             }
           ]
         },
         {
-          "id": "Mojave",
+          "id": "mojave",
           "title": "Mojave",
           "count": 30,
           "wallpapers": [
             {
               "filename": "abstract-1.jpg",
-              "title": "Abstract 1",
-              "path": "macos/Mojave/abstract-1.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/abstract-1.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/abstract-1.jpg"
+              "title": "abstract-1",
+              "path": "macos/mojave/abstract-1.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/abstract-1.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/abstract-1.jpg"
             },
             {
               "filename": "abstract-2.jpg",
-              "title": "Abstract 2",
-              "path": "macos/Mojave/abstract-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/abstract-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/abstract-2.jpg"
+              "title": "abstract-2",
+              "path": "macos/mojave/abstract-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/abstract-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/abstract-2.jpg"
             },
             {
               "filename": "abstract-3.jpg",
-              "title": "Abstract 3",
-              "path": "macos/Mojave/abstract-3.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/abstract-3.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/abstract-3.jpg"
+              "title": "abstract-3",
+              "path": "macos/mojave/abstract-3.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/abstract-3.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/abstract-3.jpg"
             },
             {
               "filename": "abstract-4.jpg",
-              "title": "Abstract 4",
-              "path": "macos/Mojave/abstract-4.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/abstract-4.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/abstract-4.jpg"
+              "title": "abstract-4",
+              "path": "macos/mojave/abstract-4.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/abstract-4.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/abstract-4.jpg"
             },
             {
               "filename": "abstract-shapes-2.jpg",
-              "title": "Abstract Shapes 2",
-              "path": "macos/Mojave/abstract-shapes-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/abstract-shapes-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/abstract-shapes-2.jpg"
+              "title": "abstract-shapes-2",
+              "path": "macos/mojave/abstract-shapes-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/abstract-shapes-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/abstract-shapes-2.jpg"
             },
             {
               "filename": "chroma-1.jpg",
-              "title": "Chroma 1",
-              "path": "macos/Mojave/chroma-1.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/chroma-1.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/chroma-1.jpg"
+              "title": "chroma-1",
+              "path": "macos/mojave/chroma-1.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/chroma-1.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/chroma-1.jpg"
             },
             {
               "filename": "chroma-2.jpg",
-              "title": "Chroma 2",
-              "path": "macos/Mojave/chroma-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/chroma-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/chroma-2.jpg"
+              "title": "chroma-2",
+              "path": "macos/mojave/chroma-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/chroma-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/chroma-2.jpg"
             },
             {
               "filename": "desert-1.jpg",
-              "title": "Desert 1",
-              "path": "macos/Mojave/desert-1.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/desert-1.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/desert-1.jpg"
+              "title": "desert-1",
+              "path": "macos/mojave/desert-1.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/desert-1.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/desert-1.jpg"
             },
             {
               "filename": "desert-2.jpg",
-              "title": "Desert 2",
-              "path": "macos/Mojave/desert-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/desert-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/desert-2.jpg"
+              "title": "desert-2",
+              "path": "macos/mojave/desert-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/desert-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/desert-2.jpg"
             },
             {
               "filename": "desert-3.jpg",
-              "title": "Desert 3",
-              "path": "macos/Mojave/desert-3.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/desert-3.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/desert-3.jpg"
+              "title": "desert-3",
+              "path": "macos/mojave/desert-3.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/desert-3.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/desert-3.jpg"
             },
             {
               "filename": "desert-4.jpg",
-              "title": "Desert 4",
-              "path": "macos/Mojave/desert-4.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/desert-4.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/desert-4.jpg"
+              "title": "desert-4",
+              "path": "macos/mojave/desert-4.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/desert-4.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/desert-4.jpg"
             },
             {
               "filename": "desert-5.jpg",
-              "title": "Desert 5",
-              "path": "macos/Mojave/desert-5.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/desert-5.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/desert-5.jpg"
+              "title": "desert-5",
+              "path": "macos/mojave/desert-5.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/desert-5.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/desert-5.jpg"
             },
             {
               "filename": "desert-6.jpg",
-              "title": "Desert 6",
-              "path": "macos/Mojave/desert-6.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/desert-6.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/desert-6.jpg"
+              "title": "desert-6",
+              "path": "macos/mojave/desert-6.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/desert-6.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/desert-6.jpg"
             },
             {
               "filename": "desert-7.jpg",
-              "title": "Desert 7",
-              "path": "macos/Mojave/desert-7.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/desert-7.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/desert-7.jpg"
+              "title": "desert-7",
+              "path": "macos/mojave/desert-7.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/desert-7.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/desert-7.jpg"
             },
             {
               "filename": "flower-1.jpg",
-              "title": "Flower 1",
-              "path": "macos/Mojave/flower-1.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-1.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-1.jpg"
+              "title": "flower-1",
+              "path": "macos/mojave/flower-1.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-1.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-1.jpg"
             },
             {
               "filename": "flower-10.jpg",
-              "title": "Flower 10",
-              "path": "macos/Mojave/flower-10.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-10.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-10.jpg"
+              "title": "flower-10",
+              "path": "macos/mojave/flower-10.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-10.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-10.jpg"
             },
             {
               "filename": "flower-2.jpg",
-              "title": "Flower 2",
-              "path": "macos/Mojave/flower-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-2.jpg"
+              "title": "flower-2",
+              "path": "macos/mojave/flower-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-2.jpg"
             },
             {
               "filename": "flower-3.jpg",
-              "title": "Flower 3",
-              "path": "macos/Mojave/flower-3.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-3.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-3.jpg"
+              "title": "flower-3",
+              "path": "macos/mojave/flower-3.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-3.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-3.jpg"
             },
             {
               "filename": "flower-4.jpg",
-              "title": "Flower 4",
-              "path": "macos/Mojave/flower-4.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-4.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-4.jpg"
+              "title": "flower-4",
+              "path": "macos/mojave/flower-4.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-4.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-4.jpg"
             },
             {
               "filename": "flower-5.jpg",
-              "title": "Flower 5",
-              "path": "macos/Mojave/flower-5.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-5.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-5.jpg"
+              "title": "flower-5",
+              "path": "macos/mojave/flower-5.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-5.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-5.jpg"
             },
             {
               "filename": "flower-6.jpg",
-              "title": "Flower 6",
-              "path": "macos/Mojave/flower-6.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-6.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-6.jpg"
+              "title": "flower-6",
+              "path": "macos/mojave/flower-6.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-6.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-6.jpg"
             },
             {
               "filename": "flower-7.jpg",
-              "title": "Flower 7",
-              "path": "macos/Mojave/flower-7.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-7.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-7.jpg"
+              "title": "flower-7",
+              "path": "macos/mojave/flower-7.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-7.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-7.jpg"
             },
             {
               "filename": "flower-8.jpg",
-              "title": "Flower 8",
-              "path": "macos/Mojave/flower-8.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-8.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-8.jpg"
+              "title": "flower-8",
+              "path": "macos/mojave/flower-8.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-8.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-8.jpg"
             },
             {
               "filename": "flower-9.jpg",
-              "title": "Flower 9",
-              "path": "macos/Mojave/flower-9.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/flower-9.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/flower-9.jpg"
+              "title": "flower-9",
+              "path": "macos/mojave/flower-9.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/flower-9.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/flower-9.jpg"
             },
             {
               "filename": "mojave-day.jpg",
-              "title": "Mojave Day",
-              "path": "macos/Mojave/mojave-day.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/mojave-day.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/mojave-day.jpg"
+              "title": "mojave-day",
+              "path": "macos/mojave/mojave-day.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/mojave-day.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/mojave-day.jpg"
             },
             {
               "filename": "mojave-night.jpg",
-              "title": "Mojave Night",
-              "path": "macos/Mojave/mojave-night.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/mojave-night.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/mojave-night.jpg"
+              "title": "mojave-night",
+              "path": "macos/mojave/mojave-night.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/mojave-night.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/mojave-night.jpg"
             },
             {
               "filename": "reflection-1.jpg",
-              "title": "Reflection 1",
-              "path": "macos/Mojave/reflection-1.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/reflection-1.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/reflection-1.jpg"
+              "title": "reflection-1",
+              "path": "macos/mojave/reflection-1.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/reflection-1.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/reflection-1.jpg"
             },
             {
               "filename": "reflection-2.jpg",
-              "title": "Reflection 2",
-              "path": "macos/Mojave/reflection-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/reflection-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/reflection-2.jpg"
+              "title": "reflection-2",
+              "path": "macos/mojave/reflection-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/reflection-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/reflection-2.jpg"
             },
             {
               "filename": "reflection-3.jpg",
-              "title": "Reflection 3",
-              "path": "macos/Mojave/reflection-3.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/reflection-3.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/reflection-3.jpg"
+              "title": "reflection-3",
+              "path": "macos/mojave/reflection-3.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/reflection-3.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/reflection-3.jpg"
             },
             {
               "filename": "reflection-4.jpg",
-              "title": "Reflection 4",
-              "path": "macos/Mojave/reflection-4.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Mojave/reflection-4.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Mojave/reflection-4.jpg"
+              "title": "reflection-4",
+              "path": "macos/mojave/reflection-4.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mojave/reflection-4.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mojave/reflection-4.jpg"
             }
           ]
         },
         {
-          "id": "Monterey",
+          "id": "monterey",
           "title": "Monterey",
           "count": 1,
           "wallpapers": [
             {
-              "filename": "Afrofuturism.png",
-              "title": "Afrofuturism",
-              "path": "macos/Monterey/Afrofuturism.png",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Monterey/Afrofuturism.png",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Monterey/Afrofuturism.png"
+              "filename": "afrofuturism.png",
+              "title": "afrofuturism",
+              "path": "macos/monterey/afrofuturism.png",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/monterey/afrofuturism.png",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/monterey/afrofuturism.png"
             }
           ]
         },
@@ -7916,213 +7916,213 @@
           "wallpapers": [
             {
               "filename": "antelope-canyon.jpg",
-              "title": "Antelope Canyon",
+              "title": "antelope-canyon",
               "path": "macos/mountain-lion/antelope-canyon.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/antelope-canyon.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/antelope-canyon.jpg"
             },
             {
               "filename": "bahamas-aerial.jpg",
-              "title": "Bahamas Aerial",
+              "title": "bahamas-aerial",
               "path": "macos/mountain-lion/bahamas-aerial.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/bahamas-aerial.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/bahamas-aerial.jpg"
             },
             {
               "filename": "blue-pond.jpg",
-              "title": "Blue Pond",
+              "title": "blue-pond",
               "path": "macos/mountain-lion/blue-pond.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/blue-pond.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/blue-pond.jpg"
             },
             {
-              "filename": "Brushes.jpg",
-              "title": "Brushes",
-              "path": "macos/mountain-lion/Brushes.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Brushes.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Brushes.jpg"
+              "filename": "brushes.jpg",
+              "title": "brushes",
+              "path": "macos/mountain-lion/brushes.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/brushes.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/brushes.jpg"
             },
             {
-              "filename": "Circles.jpg",
-              "title": "Circles",
-              "path": "macos/mountain-lion/Circles.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Circles.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Circles.jpg"
+              "filename": "circles.jpg",
+              "title": "circles",
+              "path": "macos/mountain-lion/circles.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/circles.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/circles.jpg"
             },
             {
               "filename": "earth-and-moon.jpg",
-              "title": "Earth and Moon",
+              "title": "earth-and-moon",
               "path": "macos/mountain-lion/earth-and-moon.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/earth-and-moon.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/earth-and-moon.jpg"
             },
             {
               "filename": "earth-horizon.jpg",
-              "title": "Earth Horizon",
+              "title": "earth-horizon",
               "path": "macos/mountain-lion/earth-horizon.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/earth-horizon.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/earth-horizon.jpg"
             },
             {
               "filename": "floating-ice.jpg",
-              "title": "Floating Ice",
+              "title": "floating-ice",
               "path": "macos/mountain-lion/floating-ice.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/floating-ice.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/floating-ice.jpg"
             },
             {
-              "filename": "Frog.jpg",
-              "title": "Frog",
-              "path": "macos/mountain-lion/Frog.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Frog.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Frog.jpg"
+              "filename": "frog.jpg",
+              "title": "frog",
+              "path": "macos/mountain-lion/frog.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/frog.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/frog.jpg"
             },
             {
-              "filename": "Galaxy.jpg",
-              "title": "Galaxy",
-              "path": "macos/mountain-lion/Galaxy.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Galaxy.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Galaxy.jpg"
+              "filename": "galaxy.jpg",
+              "title": "galaxy",
+              "path": "macos/mountain-lion/galaxy.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/galaxy.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/galaxy.jpg"
             },
             {
               "filename": "hawaiian-print.jpg",
-              "title": "Hawaiian Print",
+              "title": "hawaiian-print",
               "path": "macos/mountain-lion/hawaiian-print.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/hawaiian-print.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/hawaiian-print.jpg"
             },
             {
               "filename": "milky-way.jpg",
-              "title": "Milky Way",
+              "title": "milky-way",
               "path": "macos/mountain-lion/milky-way.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/milky-way.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/milky-way.jpg"
             },
             {
               "filename": "rice-paddy.jpg",
-              "title": "Rice Paddy",
+              "title": "rice-paddy",
               "path": "macos/mountain-lion/rice-paddy.jpg",
               "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/rice-paddy.jpg",
               "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/rice-paddy.jpg"
             },
             {
-              "filename": "Shapes.jpg",
-              "title": "Shapes",
-              "path": "macos/mountain-lion/Shapes.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Shapes.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Shapes.jpg"
+              "filename": "shapes.jpg",
+              "title": "shapes",
+              "path": "macos/mountain-lion/shapes.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/shapes.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/shapes.jpg"
             },
             {
-              "filename": "Sky.jpg",
-              "title": "Sky",
-              "path": "macos/mountain-lion/Sky.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Sky.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Sky.jpg"
+              "filename": "sky.jpg",
+              "title": "sky",
+              "path": "macos/mountain-lion/sky.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/sky.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/sky.jpg"
             },
             {
-              "filename": "Snow.jpg",
-              "title": "Snow",
-              "path": "macos/mountain-lion/Snow.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Snow.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Snow.jpg"
+              "filename": "snow.jpg",
+              "title": "snow",
+              "path": "macos/mountain-lion/snow.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/snow.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/snow.jpg"
             },
             {
-              "filename": "Zebras.jpg",
-              "title": "Zebras",
-              "path": "macos/mountain-lion/Zebras.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/Zebras.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/Zebras.jpg"
+              "filename": "zebras.jpg",
+              "title": "zebras",
+              "path": "macos/mountain-lion/zebras.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/mountain-lion/zebras.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/mountain-lion/zebras.jpg"
             }
           ]
         },
         {
-          "id": "Sierra",
+          "id": "sierra",
           "title": "Sierra",
           "count": 6,
           "wallpapers": [
             {
               "filename": "abstract-shapes.jpg",
-              "title": "Abstract Shapes",
-              "path": "macos/Sierra/abstract-shapes.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Sierra/abstract-shapes.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Sierra/abstract-shapes.jpg"
+              "title": "abstract-shapes",
+              "path": "macos/sierra/abstract-shapes.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/sierra/abstract-shapes.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/sierra/abstract-shapes.jpg"
             },
             {
               "filename": "color-burst-1.jpg",
-              "title": "Color Burst 1",
-              "path": "macos/Sierra/color-burst-1.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Sierra/color-burst-1.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Sierra/color-burst-1.jpg"
+              "title": "color-burst-1",
+              "path": "macos/sierra/color-burst-1.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/sierra/color-burst-1.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/sierra/color-burst-1.jpg"
             },
             {
               "filename": "color-burst-2.jpg",
-              "title": "Color Burst 2",
-              "path": "macos/Sierra/color-burst-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Sierra/color-burst-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Sierra/color-burst-2.jpg"
+              "title": "color-burst-2",
+              "path": "macos/sierra/color-burst-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/sierra/color-burst-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/sierra/color-burst-2.jpg"
             },
             {
               "filename": "color-burst-3.jpg",
-              "title": "Color Burst 3",
-              "path": "macos/Sierra/color-burst-3.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Sierra/color-burst-3.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Sierra/color-burst-3.jpg"
+              "title": "color-burst-3",
+              "path": "macos/sierra/color-burst-3.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/sierra/color-burst-3.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/sierra/color-burst-3.jpg"
             },
             {
               "filename": "sierra-2.jpg",
-              "title": "Sierra 2",
-              "path": "macos/Sierra/sierra-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Sierra/sierra-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Sierra/sierra-2.jpg"
+              "title": "sierra-2",
+              "path": "macos/sierra/sierra-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/sierra/sierra-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/sierra/sierra-2.jpg"
             },
             {
-              "filename": "Sierra.jpg",
-              "title": "Sierra",
-              "path": "macos/Sierra/Sierra.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Sierra/Sierra.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Sierra/Sierra.jpg"
+              "filename": "sierra.jpg",
+              "title": "sierra",
+              "path": "macos/sierra/sierra.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/sierra/sierra.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/sierra/sierra.jpg"
             }
           ]
         },
         {
-          "id": "Yosemite",
+          "id": "yosemite",
           "title": "Yosemite",
           "count": 5,
           "wallpapers": [
             {
               "filename": "yosemite-2.jpg",
-              "title": "Yosemite 2",
-              "path": "macos/Yosemite/yosemite-2.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Yosemite/yosemite-2.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Yosemite/yosemite-2.jpg"
+              "title": "yosemite-2",
+              "path": "macos/yosemite/yosemite-2.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/yosemite/yosemite-2.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/yosemite/yosemite-2.jpg"
             },
             {
               "filename": "yosemite-3.jpg",
-              "title": "Yosemite 3",
-              "path": "macos/Yosemite/yosemite-3.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Yosemite/yosemite-3.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Yosemite/yosemite-3.jpg"
+              "title": "yosemite-3",
+              "path": "macos/yosemite/yosemite-3.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/yosemite/yosemite-3.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/yosemite/yosemite-3.jpg"
             },
             {
               "filename": "yosemite-4.jpg",
-              "title": "Yosemite 4",
-              "path": "macos/Yosemite/yosemite-4.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Yosemite/yosemite-4.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Yosemite/yosemite-4.jpg"
+              "title": "yosemite-4",
+              "path": "macos/yosemite/yosemite-4.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/yosemite/yosemite-4.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/yosemite/yosemite-4.jpg"
             },
             {
               "filename": "yosemite-5.jpg",
-              "title": "Yosemite 5",
-              "path": "macos/Yosemite/yosemite-5.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Yosemite/yosemite-5.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Yosemite/yosemite-5.jpg"
+              "title": "yosemite-5",
+              "path": "macos/yosemite/yosemite-5.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/yosemite/yosemite-5.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/yosemite/yosemite-5.jpg"
             },
             {
-              "filename": "Yosemite.jpg",
-              "title": "Yosemite",
-              "path": "macos/Yosemite/Yosemite.jpg",
-              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/Yosemite/Yosemite.jpg",
-              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/Yosemite/Yosemite.jpg"
+              "filename": "yosemite.jpg",
+              "title": "yosemite",
+              "path": "macos/yosemite/yosemite.jpg",
+              "cdn_jsdelivr": "https://cdn.jsdelivr.net/gh/Jebrik12/wallpapers@main/macos/yosemite/yosemite.jpg",
+              "cdn_statically": "https://cdn.statically.io/gh/Jebrik12/wallpapers/main/macos/yosemite/yosemite.jpg"
             }
           ]
         }
